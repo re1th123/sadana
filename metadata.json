@@ -1,0 +1,6 @@
+{
+  "name": "Sadana",
+  "description": "A calm, beautiful yoga and mobility exercise library app built with Jetpack Compose.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

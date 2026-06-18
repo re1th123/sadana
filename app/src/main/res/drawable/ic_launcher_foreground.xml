@@ -1,0 +1,31 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Beautiful center, inner, and outer petals of a physical lotus flower, perfectly balanced. -->
+    <!-- Central standard petal -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 54,30 C 49,42 49,56 54,76 C 59,56 59,42 54,30 Z" />
+    <!-- Inner Left petal -->
+    <path
+        android:fillColor="#E3ECE3"
+        android:pathData="M 54,44 C 38,46 34,60 48,74 C 53,66 54,58 54,44 Z" />
+    <!-- Inner Right petal -->
+    <path
+        android:fillColor="#E3ECE3"
+        android:pathData="M 54,44 C 70,46 74,60 60,74 C 55,66 54,58 54,44 Z" />
+    <!-- Outer Left petal -->
+    <path
+        android:fillColor="#C9DBC9"
+        android:pathData="M 54,54 C 26,55 22,72 40,78 C 48,74 51,65 54,54 Z" />
+    <!-- Outer Right petal -->
+    <path
+        android:fillColor="#C9DBC9"
+        android:pathData="M 54,54 C 82,55 86,72 68,78 C 60,74 57,65 54,54 Z" />
+    <!-- Symmetrical bottom grounding leaves -->
+    <path
+        android:fillColor="#A9C7A9"
+        android:pathData="M 54,76 C 42,78 32,83 44,86 C 49,86 52,82 54,76 C 56,82 59,86 64,86 C 76,83 66,78 54,76 Z" />
+</vector>
